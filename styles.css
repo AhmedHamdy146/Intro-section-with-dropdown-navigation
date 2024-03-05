@@ -90,7 +90,7 @@ ul {
   z-index: 2;
   height: 0;
   overflow: hidden;
-  transition: all 1s ease-in-out;
+  transition: all 0.7s ease-in-out;
 }
 .close-menu {
   display: none;
@@ -212,7 +212,7 @@ ul {
     z-index: 2;
     height: 0;
     overflow: hidden;
-    transition: all 1s ease-in-out;
+    transition: all 0.7s ease-in-out;
   }
 
   .header .navbar .links .dp--1 {
