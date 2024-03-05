@@ -53,8 +53,7 @@ ul {
 .header {
   position: absolute;
   top: 0;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 0;
   width: 100vw;
   padding: 2rem 6rem 0;
   display: flex;
@@ -62,7 +61,6 @@ ul {
   align-items: center;
   color: hsl(0, 0%, 41%);
   font-weight: 800;
-  max-width: 1600px;
 }
 
 .header .navbar {
