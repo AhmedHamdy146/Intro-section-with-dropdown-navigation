@@ -353,6 +353,9 @@ ul {
     justify-content: space-between;
     align-items: center;
   }
+  .intro .left .images img {
+    width: 8rem;
+  }
   .intro .right {
     width: 100%;
   }
